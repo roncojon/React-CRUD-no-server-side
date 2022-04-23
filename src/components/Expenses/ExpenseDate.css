@@ -9,6 +9,8 @@
     border-radius: 12px;
     align-items: center;
     justify-content: center;
+    margin-right:5px;
+
   }
   
   .expense-date__month {
